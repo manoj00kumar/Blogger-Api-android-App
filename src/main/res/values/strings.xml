@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurentGK</string>
+    <string name="title_activity_blog_list">BlogList</string>
+
+    <string name="app_id">470305300410207</string>
+    <string name="facebook_app_id">470305300410207</string>
+    <string name="fb_login_protocol_scheme">fb470305300410207</string>
+
+    <string name="action_settings">Sync</string>
+</resources>
